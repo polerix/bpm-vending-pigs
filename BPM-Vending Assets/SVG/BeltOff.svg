@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101 32.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: aqua;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #999;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <g id="background_anim" data-name="background anim">
+    <g>
+      <rect class="cls-1" x="10.06" y="10.08" width="80.89" height="12.77" rx="6.34" ry="6.34"/>
+      <g>
+        <circle class="cls-2" cx="54.82" cy="3.43" r="2.93"/>
+        <circle class="cls-2" cx="63.52" cy="3.43" r="2.93"/>
+        <circle class="cls-2" cx="54.82" cy="29.5" r="2.93"/>
+        <circle class="cls-2" cx="63.52" cy="29.5" r="2.93"/>
+        <circle class="cls-2" cx="71.48" cy="3.43" r="2.93"/>
+        <circle class="cls-2" cx="97.57" cy="16.2" r="2.93"/>
+        <circle class="cls-2" cx="80.01" cy="3.43" r="2.93"/>
+        <circle class="cls-2" cx="80.54" cy="29.5" r="2.93"/>
+        <circle class="cls-2" cx="88.53" cy="28.97" r="2.93"/>
+        <circle class="cls-2" cx="88.53" cy="3.96" r="2.93"/>
+        <circle class="cls-2" cx="94.91" cy="8.22" r="2.93"/>
+        <circle class="cls-2" cx="94.91" cy="24.71" r="2.93"/>
+        <circle class="cls-2" cx="71.5" cy="29.5" r="2.93"/>
+        <circle class="cls-2" cx="46.18" cy="3.43" r="2.93"/>
+        <circle class="cls-2" cx="37.48" cy="3.43" r="2.93"/>
+        <circle class="cls-2" cx="46.18" cy="29.5" r="2.93"/>
+        <circle class="cls-2" cx="37.48" cy="29.5" r="2.93"/>
+        <circle class="cls-2" cx="29.52" cy="3.43" r="2.93"/>
+        <circle class="cls-2" cx="3.43" cy="16.2" r="2.93"/>
+        <circle class="cls-2" cx="20.99" cy="3.43" r="2.93"/>
+        <circle class="cls-2" cx="20.46" cy="29.5" r="2.93"/>
+        <circle class="cls-2" cx="12.47" cy="28.97" r="2.93"/>
+        <circle class="cls-2" cx="12.47" cy="3.96" r="2.93"/>
+        <circle class="cls-2" cx="6.09" cy="8.22" r="2.93"/>
+        <circle class="cls-2" cx="6.09" cy="24.71" r="2.93"/>
+        <circle class="cls-2" cx="29.5" cy="29.5" r="2.93"/>
+      </g>
+    </g>
+  </g>
+</svg>

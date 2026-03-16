@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95.26 162.55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2b2b2b;
+      }
+
+      .cls-2 {
+        fill: #1a1a1a;
+      }
+    </style>
+  </defs>
+  <g id="vendingmachine">
+    <g>
+      <rect class="cls-1" x="17.24" width="60.25" height="162.55"/>
+      <rect class="cls-2" width="18.82" height="162.55"/>
+      <rect class="cls-2" x="76.44" width="18.82" height="162.55"/>
+      <polygon points="76.9 13.95 16.65 13.95 6.53 6.04 5.9 3.77 86.44 3.77 85.9 5.59 76.9 13.95"/>
+    </g>
+  </g>
+</svg>

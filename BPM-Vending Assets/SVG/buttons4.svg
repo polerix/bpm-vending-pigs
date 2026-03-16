@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.97 12.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2b2b2b;
+      }
+
+      .cls-2 {
+        fill: #e30714;
+      }
+
+      .cls-3 {
+        fill: #39aa34;
+      }
+
+      .cls-4 {
+        fill: #770f0d;
+      }
+
+      .cls-5 {
+        fill: #ffd201;
+      }
+
+      .cls-6 {
+        fill: #574e4a;
+      }
+
+      .cls-7 {
+        fill: #005321;
+      }
+
+      .cls-8 {
+        fill: #867d00;
+      }
+
+      .cls-9 {
+        fill: #655b56;
+      }
+    </style>
+  </defs>
+  <g id="vendingmachine">
+    <g>
+      <rect class="cls-9" x="5.43" y="5.31" width=".82" height=".72"/>
+      <g>
+        <rect class="cls-6" x="3.64" y="1.89" width="1.23" height=".72"/>
+        <rect class="cls-6" x=".24" y="11.03" width="1.23" height=".72"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect class="cls-2" x="2.48" width="1.24" height="1.24"/>
+        <g>
+          <rect class="cls-4" width="1.24" height="1.24"/>
+          <rect class="cls-2" x="4.97" width="1.24" height="1.24"/>
+        </g>
+        <rect x="7.53" width="2.44" height="1.24"/>
+      </g>
+      <g>
+        <rect class="cls-2" x="2.48" y="2.52" width="1.24" height="1.24"/>
+        <g>
+          <rect class="cls-2" y="2.52" width="1.24" height="1.24"/>
+          <rect class="cls-4" x="4.97" y="2.52" width="1.24" height="1.24"/>
+        </g>
+        <rect class="cls-2" x="7.53" y="2.52" width="2.44" height="5.05"/>
+      </g>
+      <g>
+        <rect class="cls-7" x="2.48" y="5.04" width="1.24" height="1.24"/>
+        <g>
+          <rect class="cls-3" y="5.04" width="1.24" height="1.24"/>
+          <rect class="cls-7" x="4.97" y="5.04" width="1.24" height="1.24"/>
+        </g>
+      </g>
+      <g>
+        <rect class="cls-3" x="2.48" y="7.57" width="1.24" height="1.24"/>
+        <g>
+          <rect class="cls-3" y="7.57" width="1.24" height="1.24"/>
+          <rect class="cls-7" x="4.97" y="7.57" width="1.24" height="1.24"/>
+        </g>
+        <rect class="cls-1" x="7.53" y="7.57" width="2.44" height="1.24"/>
+      </g>
+      <g>
+        <rect class="cls-8" x="2.48" y="10.09" width="1.24" height="1.24"/>
+        <g>
+          <rect class="cls-5" y="10.09" width="1.24" height="1.24"/>
+          <rect class="cls-8" x="4.97" y="10.09" width="1.24" height="1.24"/>
+        </g>
+        <rect class="cls-3" x="7.53" y="7.58" width="2.44" height="5.15"/>
+      </g>
+    </g>
+  </g>
+</svg>

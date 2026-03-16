@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.01 5.14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #65c8d0;
+      }
+
+      .cls-2 {
+        fill: #016d68;
+      }
+
+      .cls-3 {
+        fill: #1a1a1a;
+      }
+    </style>
+  </defs>
+  <g id="vendingmachine">
+    <g>
+      <g>
+        <rect class="cls-2" y="0" width="11.01" height="5.14"/>
+        <path class="cls-3" d="M10.01,1v3.14H1V1h9.01M11.01,0H0v5.14h11.01V0h0Z"/>
+      </g>
+      <rect class="cls-1" x="1.84" y="1.48" width="1.11" height="1.93"/>
+    </g>
+  </g>
+</svg>
